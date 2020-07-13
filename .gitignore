@@ -1,0 +1,7 @@
+#Node_Modules
+/node_modules
+
+
+#Protected Enviroment
+.env
+.env*
